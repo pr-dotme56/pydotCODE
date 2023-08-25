@@ -1,2 +1,8 @@
 ﻿# Test-engine
-My python projects
+## Python projects
+#### Requirements
+Python 3.9 or newer
+
+```
+pip install pyperclip
+```
