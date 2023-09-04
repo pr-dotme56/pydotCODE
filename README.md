@@ -8,11 +8,11 @@ A python app that allows users to generate and decode code messages. With this a
 
 Clone this repository to your local machine:
 ```
-git clone https://github.com/iamAbhinavPR/Code-Engine.git
+git clone https://github.com/iamAbhinavPR/py.CODE.git
 ```
 Navigate to the project directory:
 ```
-cd Code-Engine
+cd py.CODE
 ```
 Install pyperclip module:
 ``` 
