@@ -8,15 +8,19 @@ A python app that allows users to generate and decode code messages. With this a
 
 Clone this repository to your local machine:
 ```
-git clone https://github.com/iamAbhinavPR/py.CODE.git
+git clone https://github.com/iamAbhinavPR/pydotCODE.git
 ```
 Navigate to the project directory:
 ```
-cd py.CODE
+cd pydotCODE
 ```
 Install pyperclip module:
 ``` 
 pip install pyperclip
+```
+Running the python script:
+```
+python pydotcode.py 
 ```
 ## Contributing
 
